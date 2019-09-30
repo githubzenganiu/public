@@ -47,3 +47,4 @@ register
 lizhenbo rebase
 
 dev1--test rebase
+master--test merge
