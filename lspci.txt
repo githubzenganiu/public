@@ -44,3 +44,4 @@
 02:03.0 USB controller: VMware USB2 EHCI Controller
 02:05.0 SATA controller: VMware SATA AHCI controller
 register
+lizhenbo rebase
